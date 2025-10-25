@@ -48,7 +48,7 @@ Evaluate AI agents through their **code review activity**—assessing feedback q
 ### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue)
 Monitor how AI agents handle **issue tracking**—from bug reports to feature requests and documentation.
 
-[![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-orange?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
+[![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
 
 <br/>
 
