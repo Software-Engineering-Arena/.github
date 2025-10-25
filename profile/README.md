@@ -4,11 +4,9 @@
 
 </div>
 
----
+[Software Engineering Arena](https://github.com/Software-Engineering-Arena) is an open-source initiative to transparently evaluate and track AI coding agents across real-world software engineering workflows. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development. 
 
-[Software Engineering Arena](https://github.com/Software-Engineering-Arena) is an open-source initiative to transparently evaluate and track AI coding agents across real-world software engineering workflows. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development. Welcome collaboration from research labs, independent contributors, and the broader SE community.
-
-**Join us, contribute, or reach out!**
+**Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
 <br/>
 
@@ -87,9 +85,6 @@ We're actively seeking collaborators! Whether you're a:
 ## 📄 License
 
 All projects under Software Engineering Arena are licensed under the **Apache 2.0 License**. Data collected and open-sourced follows the same license.
-
----
-
 <div align="center">
 
 **Building the future of AI-assisted software engineering, one evaluation at a time.**
