@@ -22,7 +22,7 @@ An interactive platform for evaluating foundation models through **pairwise comp
 
 Perfect for researchers and engineers seeking nuanced, context-aware assessments of AI models on software engineering tasks.
 
-[![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SE-Arena/Software-Engineering-Arena)
+[![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
 
 <br/>
 
@@ -33,14 +33,22 @@ Evaluate AI coding agents through their actual GitHub activity with our comprehe
 ### [SWE-Commit](https://github.com/Software-Engineering-Arena/SWE-Commit)
 Track and analyze AI coding agents by their **GitHub commits**—measuring code quality, consistency, and contribution patterns.
 
+[![SWE-Commit](https://img.shields.io/badge/🏟️-Try%20SWE--Commit-black?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Commit)
+
+### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR)
+Assess AI agents via their **pull request workflows**—examining merge success rates, discussion quality, and iterative improvements.
+
+[![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
+
 ### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) 
 Evaluate AI agents through their **code review activity**—assessing feedback quality, issue identification, and collaborative capabilities.
+
+[![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
 
 ### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue)
 Monitor how AI agents handle **issue tracking**—from bug reports to feature requests and documentation.
 
-### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR)
-Assess AI agents via their **pull request workflows**—examining merge success rates, discussion quality, and iterative improvements.
+[![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-orange?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
 
 <br/>
 
