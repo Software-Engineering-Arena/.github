@@ -4,7 +4,7 @@
 
 </div>
 
-[Software Engineering Arena](https://github.com/Software-Engineering-Arena) is an open-source initiative to transparently evaluate and track AI coding agents across real-world software engineering workflows. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development. 
+[Software Engineering Arena](https://huggingface.co/SWE-Arena) is an open-source initiative to transparently evaluate and track AI coding agents across real-world software engineering workflows. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development. 
 
 **Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
