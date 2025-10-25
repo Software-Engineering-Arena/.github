@@ -33,12 +33,12 @@ Evaluate AI coding agents through their actual GitHub activity with our comprehe
 ### [SWE-Commit](https://github.com/Software-Engineering-Arena/SWE-Commit)
 Track and analyze AI coding agents by their **GitHub commits**—measuring code quality, consistency, and contribution patterns.
 
-[![SWE-Commit](https://img.shields.io/badge/🏟️-Try%20SWE--Commit-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Commit)
+[![SWE-Commit](https://img.shields.io/badge/🏟️-Try%20SWE--Commit-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Commit)
 
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR)
 Assess AI agents via their **pull request workflows**—examining merge success rates, discussion quality, and iterative improvements.
 
-[![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
+[![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
 
 ### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) 
 Evaluate AI agents through their **code review activity**—assessing feedback quality, issue identification, and collaborative capabilities.
