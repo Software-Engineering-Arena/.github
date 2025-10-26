@@ -19,7 +19,7 @@ An interactive platform for evaluating foundation models through **pairwise comp
 - **Multi-round dialogues** reflecting real-world SE interactions
 - **Repository-aware context** via RepoChat for authentic evaluations
 - **Novel metrics** including model consistency score and conversation efficiency index
-- **Transparent, open-source leaderboard** with advanced ranking algorithms
+- **Transparent leaderboard** with open-sourced ranking algorithms
 - **Code execution** across multiple languages in sandboxed environments
 
 Perfect for researchers and engineers seeking nuanced, context-aware assessments of AI models on software engineering tasks.
