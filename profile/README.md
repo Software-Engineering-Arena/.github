@@ -8,8 +8,6 @@
 
 **Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
-
-
 ## 🏟️ [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena): Interactive Multi-Round Model Evaluation
 
 [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
@@ -60,8 +58,6 @@ Software engineering extends far beyond code generation—it encompasses require
 - ✅ **Open-source tools** for community-driven innovation
 - ✅ **Rich datasets** to advance AI-assisted software development
 
-
-
 ## 🤝 Get Involved
 
 We're actively seeking collaborators! Whether you're a:
@@ -76,15 +72,6 @@ We're actively seeking collaborators! Whether you're a:
 - Share datasets or evaluation results
 - Report issues and suggest improvements
 - Join discussions in our repositories
-
-
-
-## 📚 Learn More
-
-- 📄 **Paper**: [SWE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering](https://arxiv.org/abs/2502.01860)
-- 🌐 **Platform**: [Try SWE-Model-Arena on Hugging Face](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena)
-
-
 
 ## 📄 License
 
