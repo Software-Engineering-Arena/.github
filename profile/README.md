@@ -12,6 +12,8 @@
 
 ## 🏟️ [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena): Interactive Multi-Round Model Evaluation
 
+[![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
+
 An interactive platform for evaluating foundation models through **pairwise comparisons** in multi-round conversational workflows. Unlike static benchmarks, SWE-Model-Arena enables:
 
 - **Multi-round dialogues** reflecting real-world SE interactions
@@ -22,24 +24,28 @@ An interactive platform for evaluating foundation models through **pairwise comp
 
 Perfect for researchers and engineers seeking nuanced, context-aware assessments of AI models on software engineering tasks.
 
-[![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
-
-
-
 ## 📊 GitHub-Based Agent Tracking Suite
 
 Evaluate AI coding agents through their actual GitHub activity with our comprehensive tracking systems:
 
-### [SWE-Commit](https://github.com/Software-Engineering-Arena/SWE-Commit) [![SWE-Commit](https://img.shields.io/badge/🏟️-Try%20SWE--Commit-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Commit)
+### [SWE-Commit](https://github.com/Software-Engineering-Arena/SWE-Commit) 
+[![SWE-Commit](https://img.shields.io/badge/🏟️-Try%20SWE--Commit-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Commit)
+
 Track and analyze AI coding agents by their **GitHub commits**—measuring code quality, consistency, and contribution patterns.
 
-### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
+### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) 
+[![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
+
 Assess AI agents via their **pull request workflows**—examining merge success rates, discussion quality, and iterative improvements.
 
-### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) [![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
+### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) 
+[![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
+
 Evaluate AI agents through their **code review activity**—assessing feedback quality, issue identification, and collaborative capabilities.
 
-### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
+### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) 
+[![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
+
 Monitor how AI agents handle **issue tracking**—from bug reports to feature requests and documentation.
 
 ## 🎯 Our Mission
