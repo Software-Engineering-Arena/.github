@@ -78,6 +78,6 @@ We're actively seeking collaborators! Whether you're a:
 All projects under Software Engineering Arena are licensed under the **Apache 2.0 License**. Data collected and open-sourced follows the same license.
 <div align="center">
 
-**Building the future of AI-assisted software engineering by automating all evaluable processes through high-quality, advanced AI systems.**
+**We believe everything that can be evaluated can be automated with high quality using AI—and we evaluate these AI systems to facilitate that transformation in software engineering domain.**
 
 </div>
