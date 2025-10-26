@@ -31,22 +31,22 @@ Evaluate AI coding agents through their actual GitHub activity with our comprehe
 ### [SWE-Commit](https://github.com/Software-Engineering-Arena/SWE-Commit) 
 [![SWE-Commit](https://img.shields.io/badge/🏟️-Try%20SWE--Commit-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Commit)
 
-Track and analyze AI coding agents by their **GitHub commits**—measuring code quality, consistency, and contribution patterns.
+Track and analyze AI coding agents by their **commits**—measuring code quality, consistency, and contribution patterns.
 
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) 
 [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
 
-Assess AI agents via their **pull request workflows**—examining merge success rates, discussion quality, and iterative improvements.
+Assess AI agents via their **pull requests**—examining merge success rates, discussion quality, and iterative improvements.
 
 ### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) 
 [![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
 
-Evaluate AI agents through their **code review activity**—assessing feedback quality, issue identification, and collaborative capabilities.
+Evaluate AI agents through their **code reviews**—assessing feedback quality, issue identification, and collaborative capabilities.
 
 ### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) 
 [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
 
-Monitor how AI agents handle **issue tracking**—from bug reports to feature requests and documentation.
+Monitor how AI agents handle **issue trackers**—from bug reports to feature requests and documentation.
 
 ## 🎯 Our Mission
 
