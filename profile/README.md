@@ -8,7 +8,7 @@
 
 **Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
-<br/>
+
 
 ## 🏟️ [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena): Interactive Multi-Round Model Evaluation
 
@@ -24,7 +24,7 @@ Perfect for researchers and engineers seeking nuanced, context-aware assessments
 
 [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
 
-<br/>
+
 
 ## 📊 GitHub-Based Agent Tracking Suite
 
@@ -50,7 +50,7 @@ Monitor how AI agents handle **issue tracking**—from bug reports to feature re
 
 [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
 
-<br/>
+
 
 ## 🎯 Our Mission
 
@@ -64,7 +64,7 @@ Software engineering extends far beyond code generation—it encompasses require
 - ✅ **Open-source tools** for community-driven innovation
 - ✅ **Rich datasets** to advance AI-assisted software development
 
-<br/>
+
 
 ## 🤝 Get Involved
 
@@ -81,14 +81,14 @@ We're actively seeking collaborators! Whether you're a:
 - Report issues and suggest improvements
 - Join discussions in our repositories
 
-<br/>
+
 
 ## 📚 Learn More
 
 - 📄 **Paper**: [SWE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering](https://arxiv.org/abs/2502.01860)
 - 🌐 **Platform**: [Try SWE-Model-Arena on Hugging Face](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena)
 
-<br/>
+
 
 ## 📄 License
 
