@@ -6,7 +6,7 @@
 
 [Software Engineering Arena](https://huggingface.co/SWE-Arena) is an open-source initiative to transparently evaluate and track AI coding agents across real-world software engineering tasks. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development. 
 
-**Our mission:** We believe that evaluable tasks can eventually be automated with high quality using AI systems. We evaluate these AI systems and facilitate this transformation in software engineering domain.
+**Our mission:** We believe any evaluable task can eventually be automated with high-quality AI systems. We accelerate this transformation in software engineering by developing benchmarks and leaderboards that rigorously evaluate AI capabilities.
 
 **Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
