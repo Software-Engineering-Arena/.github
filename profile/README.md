@@ -51,33 +51,6 @@ Track and analyze AI coding agents via their **issue trackers**—from bug repor
 
 Track and analyze AI coding agents via their **community discussions**—measuring question answering to polls and documentation.
 
-## 🎯 Our Mission
-
-Software engineering extends far beyond code generation—it encompasses requirements engineering, collaborative design, code review, debugging, and project management. Current evaluation frameworks often focus narrowly on code completion or generation. 
-
-**Software Engineering Arena** provides:
-
-- ✅ **Holistic evaluation** across diverse SE activities
-- ✅ **Multi-turn interactions** matching real-world workflows  
-- ✅ **Transparent methodologies** for reproducible research
-- ✅ **Open-source tools** for community-driven innovation
-- ✅ **Rich datasets** to advance AI-assisted software development
-
-## 🤝 Get Involved
-
-We're actively seeking collaborators! Whether you're a:
-- 🔬 **Researcher** developing new evaluation metrics
-- 🛠️ **Engineer** building AI coding tools
-- 📊 **Data scientist** analyzing model performance
-- 🌐 **Open source contributor** improving our platforms
-
-**Ways to contribute:**
-- Submit PRs to enhance our evaluation platforms
-- Propose new metrics or tracking methodologies  
-- Share datasets or evaluation results
-- Report issues and suggest improvements
-- Join discussions in our repositories
-
 ## 📄 License
 
 All projects under Software Engineering Arena are licensed under the **Apache 2.0 License**. Data collected and open-sourced follows the same license.
