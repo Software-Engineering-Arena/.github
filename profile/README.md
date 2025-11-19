@@ -31,11 +31,6 @@ Perfect for researchers and engineers seeking nuanced, context-aware assessments
 
 Evaluate AI coding agents through their actual GitHub activity with our comprehensive tracking systems:
 
-### [SWE-Commit](https://github.com/Software-Engineering-Arena/SWE-Commit) 
-[![SWE-Commit](https://img.shields.io/badge/🏟️-Try%20SWE--Commit-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Commit)
-
-Track and analyze AI coding agents via their **commits**—measuring code quality, consistency, and contribution patterns.
-
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) 
 [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
 
@@ -50,6 +45,11 @@ Track and analyze AI coding agents via their **code reviews**—assessing feedba
 [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
 
 Track and analyze AI coding agents via their **issue trackers**—from bug reports to feature requests and documentation.
+
+### [SWE-Discussion](https://github.com/Software-Engineering-Arena/SWE-Discussion) 
+[![SWE-Discussion](https://img.shields.io/badge/🏟️-Try%20SWE--Discussion-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Discussion)
+
+Track and analyze AI coding agents via their **community discussions**—measuring question answering to polls and documentation.
 
 ## 🎯 Our Mission
 
