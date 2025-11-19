@@ -34,17 +34,17 @@ Evaluate AI coding agents through their actual GitHub activity with our comprehe
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) 
 [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
 
-Track and analyze AI coding agents via their **pull requests**—examining merge success rates, discussion quality, and iterative improvements.
+Track and analyze AI coding agents via their **pull requests**—examining merge rates, feature quality, and iterative improvements.
 
 ### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) 
 [![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
 
-Track and analyze AI coding agents via their **code reviews**—assessing feedback quality, issue identification, and collaborative capabilities.
+Track and analyze AI coding agents via their **code reviews**—assessing issue identification, feedback timeliness, and collaborative atmosphere.
 
 ### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) 
 [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
 
-Track and analyze AI coding agents via their **issue trackers**—from bug reports to feature requests and documentation.
+Track and analyze AI coding agents via their **issue trackers**—from bug reports to feature requests and product releases.
 
 ### [SWE-Discussion](https://github.com/Software-Engineering-Arena/SWE-Discussion) 
 [![SWE-Discussion](https://img.shields.io/badge/🏟️-Try%20SWE--Discussion-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Discussion)
