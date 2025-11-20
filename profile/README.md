@@ -4,7 +4,7 @@
 
 </div>
 
-[Software Engineering Arena](https://huggingface.co/SWE-Arena) is an open-source initiative to transparently evaluate and track AI coding assistants across real-world software engineering tasks. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development.
+[Software Engineering Arena](https://huggingface.co/SWE-Arena) is an open-source initiative to transparently evaluate and track AI assistants across real-world software engineering tasks. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development.
 
 > **"The easier it is to verify a solution, the faster an AI system can learn to master the task."** — [Andrej Karpathy](https://x.com/karpathy/status/1990116666194456651), [Jason Wei](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
@@ -18,7 +18,7 @@ Interactive platform for evaluating foundation models through **pairwise compari
 
 ## 📊 GitHub-Based Tracking Suite
 
-Evaluate AI coding assistants through their actual GitHub activity:
+Evaluate AI assistants through their actual GitHub activity:
 
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
 Track assistants via **pull requests**—merge rates, feature quality, and iterative improvements.
