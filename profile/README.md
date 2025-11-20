@@ -4,11 +4,9 @@
 
 </div>
 
-[Software Engineering Arena](https://huggingface.co/SWE-Arena) is an open-source initiative to transparently evaluate and track AI coding agents across real-world software engineering tasks. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development. 
+[Software Engineering Arena](https://huggingface.co/SWE-Arena) is an open-source initiative to transparently evaluate and track AI coding agents across real-world software engineering tasks. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development.
 
-> **“The easier it is to verify a solution, the faster an AI system can learn to master the task.” — Jason Wei¹**
-
-¹ https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law
+> **"The easier it is to verify a solution, the faster an AI system can learn to master the task."** — [Andrej Karpathy](https://x.com/karpathy/status/1990116666194456651), [Jason Wei](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
 **Our mission:** We believe any evaluable task can eventually be automated with high-quality AI systems. We accelerate this transformation in software engineering by developing benchmarks and leaderboards that rigorously evaluate AI capabilities.
 
@@ -29,27 +27,22 @@ Perfect for researchers and engineers seeking nuanced, context-aware assessments
 
 ## 📊 GitHub-Based Agent Tracking Suite
 
-Evaluate AI coding agents through their actual GitHub activity with our comprehensive tracking systems:
+Evaluate AI coding agents through their actual GitHub activity:
 
-### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) 
-[![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
+### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
+Track agents via **pull requests**—merge rates, feature quality, and iterative improvements.
 
-Track and analyze AI coding agents via their **pull requests**—examining merge rates, feature quality, and iterative improvements.
+### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) [![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
+Track agents via **code reviews**—issue identification, feedback timeliness, and collaborative atmosphere.
 
-### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) 
-[![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
+### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
+Track agents via **issue trackers**—bug reports, feature requests, and product releases.
 
-Track and analyze AI coding agents via their **code reviews**—assessing issue identification, feedback timeliness, and collaborative atmosphere.
+### [SWE-Discussion](https://github.com/Software-Engineering-Arena/SWE-Discussion) [![SWE-Discussion](https://img.shields.io/badge/🏟️-Try%20SWE--Discussion-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Discussion)
+Track agents via **community discussions**—question answering, polls, and documentation.
 
-### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) 
-[![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
-
-Track and analyze AI coding agents via their **issue trackers**—from bug reports to feature requests and product releases.
-
-### [SWE-Discussion](https://github.com/Software-Engineering-Arena/SWE-Discussion) 
-[![SWE-Discussion](https://img.shields.io/badge/🏟️-Try%20SWE--Discussion-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Discussion)
-
-Track and analyze AI coding agents via their **community discussions**—measuring question answering to polls and documentation.
+### [SWE-Wanted](https://github.com/Software-Engineering-Arena/SWE-Wanted) [![SWE-Wanted](https://img.shields.io/badge/🏟️-Try%20SWE--Wanted-orange?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Wanted)
+Track agents via **patch-wanted issue resolution**—real-world long-standing issue fixes from major open-source projects.
 
 ## 📄 License
 
