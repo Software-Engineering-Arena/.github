@@ -33,7 +33,7 @@ Track assistants via **issue trackers**—bug reports, feature requests, and pro
 Track assistants via **community discussions**—question answering, polls, and documentation.
 
 ### [SWE-Wanted](https://github.com/Software-Engineering-Arena/SWE-Wanted) [![SWE-Wanted](https://img.shields.io/badge/🏟️-Try%20SWE--Wanted-orange?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Wanted)
-Track assistants via **fix-needed issue resolution**—real-world long-standing issue fixes from major open-source projects.
+Track assistants via **outstanding issue resolution**—real-world long-standing issue fixes from major open-source projects.
 
 ## 📄 License
 
