@@ -12,18 +12,9 @@
 
 **Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
-## 🏟️ [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena): Interactive Multi-Round Model Evaluation
+## 🏟️ [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
 
-[![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
-
-An interactive platform for evaluating foundation models through **pairwise comparisons** in multi-round conversational workflows. Unlike static benchmarks, SWE-Model-Arena enables:
-
-- **Multi-round dialogues** reflecting real-world SE interactions
-- **Repository-aware context** via RepoChat for authentic evaluations
-- **Novel metrics** including model consistency score and conversation efficiency index
-- **Transparent leaderboard** with open-sourced ranking algorithms
-
-Perfect for researchers and engineers seeking nuanced, context-aware assessments of AI models on software engineering tasks.
+Interactive platform for evaluating foundation models through **pairwise comparisons** in multi-round conversational workflows—featuring repository-aware context, novel metrics, and transparent leaderboards.
 
 ## 📊 GitHub-Based Agent Tracking Suite
 
