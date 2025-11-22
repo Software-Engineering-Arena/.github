@@ -12,9 +12,13 @@
 
 **Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
-## 🏟️ [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
+## ⚔️ Arena-Based Tracking Suite
 
-Interactive platform for evaluating foundation models through **pairwise comparisons** in multi-round conversational workflows—featuring repository-aware context, novel metrics, and transparent leaderboards.
+Evaluate AI assistants through pairwise comparisons in user-oriented software engineering scenarios:
+
+### [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
+
+Evaluate **foundation models** through pairwise comparisons in multi-round conversational workflows with repository-aware context and transparent leaderboards.
 
 ## 📊 GitHub-Based Tracking Suite
 
