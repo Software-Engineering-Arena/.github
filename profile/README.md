@@ -20,6 +20,9 @@ Interactive platform for evaluating foundation models through **pairwise compari
 
 Evaluate AI assistants through their actual GitHub activity:
 
+### [SWE-Wanted](https://github.com/Software-Engineering-Arena/SWE-Wanted) [![SWE-Wanted](https://img.shields.io/badge/🏟️-Try%20SWE--Wanted-orange?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Wanted)
+Track assistants via **outstanding issue resolution**—real-world long-standing issue fixes from major open-source projects.
+
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
 Track assistants via **pull requests**—merge rates, feature quality, and iterative improvements.
 
@@ -40,9 +43,6 @@ Track assistants via **wiki documentation**—documentation contributions, wiki 
 
 ### [SWE-Team](https://github.com/Software-Engineering-Arena/SWE-Team) [![SWE-Team](https://img.shields.io/badge/🏟️-Try%20SWE--Team-pink?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Team)
 Track assistants via **team management**—membership events, collaboration patterns, and team organization activities.
-
-### [SWE-Wanted](https://github.com/Software-Engineering-Arena/SWE-Wanted) [![SWE-Wanted](https://img.shields.io/badge/🏟️-Try%20SWE--Wanted-orange?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Wanted)
-Track assistants via **outstanding issue resolution**—real-world long-standing issue fixes from major open-source projects.
 
 ## 📄 License
 
