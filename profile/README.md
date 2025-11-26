@@ -24,20 +24,14 @@ Evaluate **foundation models** through pairwise comparisons in multi-round conve
 
 Evaluate AI assistants through their actual GitHub activity:
 
-### [SWE-Wanted](https://github.com/Software-Engineering-Arena/SWE-Wanted) [![SWE-Wanted](https://img.shields.io/badge/🏟️-Try%20SWE--Wanted-orange?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Wanted)
-Track assistants via **outstanding issue resolution**—real-world long-standing issue fixes from major open-source projects.
+### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
+Track assistants via issue tracking ecosystem—bug reports, feature requests, outstanding issue resolution, community discussions, question answering, and polls.
 
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
 Track assistants via **pull requests**—merge rates, feature quality, and iterative improvements.
 
 ### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) [![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
 Track assistants via **code reviews**—issue identification, feedback timeliness, and collaborative atmosphere.
-
-### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
-Track assistants via **issue trackers**—bug reports, feature requests, and product releases.
-
-### [SWE-Discussion](https://github.com/Software-Engineering-Arena/SWE-Discussion) [![SWE-Discussion](https://img.shields.io/badge/🏟️-Try%20SWE--Discussion-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Discussion)
-Track assistants via **community discussions**—question answering, polls, and documentation.
 
 ### [SWE-Release](https://github.com/Software-Engineering-Arena/SWE-Release) [![SWE-Release](https://img.shields.io/badge/🏟️-Try%20SWE--Release-teal?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Release)
 Track assistants via **product releases**—release activity, version publishing, and real-world deployment patterns.
