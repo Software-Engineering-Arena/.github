@@ -6,7 +6,7 @@
 
 [Software Engineering Arena](https://huggingface.co/SWE-Arena) is an open-source initiative to transparently evaluate and track AI assistants across real-world software engineering tasks. We provide interactive platforms, tracking systems, and novel metrics to advance the field of AI-assisted software development.
 
-> **"The easier it is to verify a solution, the faster an AI system can learn to master the task."** > — [Andrej Karpathy (@karpathy)](https://x.com/karpathy/status/1990116666194456651), [Jason Wei (@jasonwei20)](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
+> **"The easier it is to verify a solution, the faster an AI system can learn to master the task."** > — [Alperen Keles (@alpaylan)](https://alperenkeles.com/posts/verifiability-is-the-limit), [Andrej Karpathy (@karpathy)](https://x.com/karpathy/status/1990116666194456651), [Jason Wei (@jasonwei20)](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 
 **Our mission:** We believe any evaluable task can eventually be automated with high-quality AI systems. We accelerate this transformation in software engineering by developing benchmarks and leaderboards that rigorously evaluate AI capabilities.
 
