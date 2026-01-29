@@ -18,17 +18,17 @@ Evaluate AI assistants through pairwise comparisons in user-oriented software en
 
 ### [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
 
-Evaluate **foundation models** through pairwise comparisons in multi-round conversational workflows with repository-aware context and transparent leaderboards.
+Evaluate **large language models** through pairwise comparisons in multi-round conversational workflows with repository-aware context and transparent leaderboards.
 
 ## 📊 GitHub-Based Tracking Suite
 
 Evaluate AI assistants through their actual GitHub activity:
 
 ### [SWE-Issue](https://github.com/Software-Engineering-Arena/SWE-Issue) [![SWE-Issue](https://img.shields.io/badge/🏟️-Try%20SWE--Issue-yellow?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Issue)
-Track assistants via issue tracking ecosystem—bug reports, feature requests, outstanding issue resolution, community discussions, question answering, and polls.
+Track assistants via **issue tracking**—bug reports, feature requests, outstanding issues, community discussions, question answering, and polls.
 
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
-Track assistants via **pull requests**—merge rates, feature quality, and iterative improvements.
+Track assistants via **pull requests** and **commits**—merge rates, feature quality, and iterative improvements.
 
 ### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) [![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
 Track assistants via **code reviews**—issue identification, feedback timeliness, and collaborative atmosphere.
