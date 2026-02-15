@@ -28,10 +28,7 @@ Evaluate AI assistants through their actual GitHub activity:
 Track assistants via **issue tracking**—bug reports, feature requests, outstanding issues, community discussions, question answering, and polls.
 
 ### [SWE-PR](https://github.com/Software-Engineering-Arena/SWE-PR) [![SWE-PR](https://img.shields.io/badge/🏟️-Try%20SWE--PR-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-PR)
-Track assistants via **pull requests** and **commits**—merge rates, feature quality, and iterative improvements.
-
-### [SWE-Review](https://github.com/Software-Engineering-Arena/SWE-Review) [![SWE-Review](https://img.shields.io/badge/🏟️-Try%20SWE--Review-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Review)
-Track assistants via **code reviews**—issue identification, feedback timeliness, and collaborative atmosphere.
+Track assistants via **pull requests**, **code reviews** and **commits**—feature quality, feedback timeliness, and iterative improvements.
 
 ### [SWE-Release](https://github.com/Software-Engineering-Arena/SWE-Release) [![SWE-Release](https://img.shields.io/badge/🏟️-Try%20SWE--Release-teal?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Release)
 Track assistants via **product releases**—release activity, version publishing, and real-world deployment patterns.
