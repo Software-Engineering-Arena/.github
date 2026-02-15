@@ -16,7 +16,7 @@
 
 Evaluate AI assistants through pairwise comparisons in user-oriented software engineering scenarios:
 
-### [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
+### [SWE-Chatbot-Arena](https://github.com/Software-Engineering-Arena/SWE-Chatbot-Arena) [![SWE-Chatbot-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Chatbot--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
 
 Evaluate **large language models** through pairwise comparisons in multi-round conversational workflows with repository-aware context and transparent leaderboards.
 
