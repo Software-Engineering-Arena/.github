@@ -20,6 +20,10 @@ Evaluate AI assistants through pairwise comparisons in user-oriented software en
 
 Evaluate **large language models** through pairwise comparisons in multi-round conversational workflows with repository-aware context and transparent leaderboards.
 
+### [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena)
+
+Evaluate **agentic coding models** through pairwise comparisons where models operate as autonomous coding agents via opencode, producing real git diffs and code changes.
+
 ## 📊 GitHub-Based Tracking Suite
 
 Evaluate AI assistants through their actual GitHub activity:
