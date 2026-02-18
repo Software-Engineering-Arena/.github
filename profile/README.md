@@ -22,7 +22,7 @@ Evaluate **CLI coding agents** through pairwise comparisons on real software eng
 
 ### [SWE-Model-Arena](https://github.com/Software-Engineering-Arena/SWE-Model-Arena) [![SWE-Model-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Model--Arena-green?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Model-Arena)
 
-Evaluate **agentic coding models** through pairwise comparisons where models operate as autonomous coding agents via [opencode](https://opencode.ai), producing real git diffs and code changes.
+Evaluate **tool-calling models** through pairwise comparisons where models operate as autonomous coding agents via [opencode](https://opencode.ai), producing real git diffs and code changes.
 
 ### [SWE-Chatbot-Arena](https://github.com/Software-Engineering-Arena/SWE-Chatbot-Arena) [![SWE-Chatbot-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Chatbot--Arena-blue?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/Software-Engineering-Arena)
 
