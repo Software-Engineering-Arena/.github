@@ -24,7 +24,7 @@ Evaluate **large language models** through pairwise comparisons in multi-round c
 
 Evaluate **agentic coding models** through pairwise comparisons where models operate as autonomous coding agents via [opencode](https://opencode.ai), producing real git diffs and code changes.
 
-### [SWE-Agent-Arena](https://github.com/Software-Engineering-Arena/SWE-Agent-Arena) [![SWE-Agent-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Agent--Arena-purple?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Agent-Arena)
+### [SWE-Agent-Arena](https://github.com/Software-Engineering-Arena/SWE-Agent-Arena) [![SWE-Agent-Arena](https://img.shields.io/badge/🏟️-Try%20SWE--Agent--Arena-red?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Agent-Arena)
 
 Evaluate **CLI coding agents** through pairwise comparisons on real software engineering tasks. Two anonymous agents tackle the same task in isolated environments — compare their output and git diffs, then vote.
 
