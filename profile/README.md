@@ -10,7 +10,7 @@
 
 **Our mission:** We believe any evaluable task can eventually be automated with high-quality AI systems. We accelerate this transformation in software engineering by developing benchmarks and leaderboards that rigorously evaluate AI capabilities.
 
-**Welcome collaboration from research labs, independent contributors, and the broader SWE community!**
+**Welcome collaboration from research labs, independent contributors, and the broader SE community!**
 
 ## ⚔️ Arena-Based Tracking Suite
 
