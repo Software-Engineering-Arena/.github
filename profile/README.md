@@ -41,11 +41,8 @@ Track assistants via **pull requests**, **code reviews** and **commits**—featu
 ### [SWE-Release](https://github.com/Software-Engineering-Arena/SWE-Release) [![SWE-Release](https://img.shields.io/badge/🏟️-Try%20SWE--Release-teal?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Release)
 Track assistants via **product releases**—release activity, version publishing, and real-world deployment patterns.
 
-### [SWE-Wiki](https://github.com/Software-Engineering-Arena/SWE-Wiki) [![SWE-Wiki](https://img.shields.io/badge/🏟️-Try%20SWE--Wiki-indigo?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Wiki)
-Track assistants via **wiki documentation**—documentation contributions, wiki page edits, and knowledge base maintenance.
-
-### [SWE-Team](https://github.com/Software-Engineering-Arena/SWE-Team) [![SWE-Team](https://img.shields.io/badge/🏟️-Try%20SWE--Team-pink?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Team)
-Track assistants via **team management**—membership events, collaboration patterns, and team organization activities.
+### [SWE-Community](https://github.com/Software-Engineering-Arena/SWE-Community) [![SWE-Community](https://img.shields.io/badge/🏟️-Try%20SWE--Community-indigo?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Community)
+Track assistants via **community engagement**—wiki documentation contributions, wiki page edits, knowledge base maintenance, team membership events, collaboration patterns, and team organization activities.
 
 ## 📚 Curated Resources
 
