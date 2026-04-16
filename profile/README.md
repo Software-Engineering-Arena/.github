@@ -44,12 +44,6 @@ Track assistants via **product releases**—release activity, version publishing
 ### [SWE-Community](https://github.com/Software-Engineering-Arena/SWE-Community) [![SWE-Community](https://img.shields.io/badge/🏟️-Try%20SWE--Community-indigo?style=for-the-badge)](https://huggingface.co/spaces/SWE-Arena/SWE-Community)
 Track assistants via **community engagement**—wiki documentation contributions, wiki page edits, knowledge base maintenance, team membership events, collaboration patterns, and team organization activities.
 
-## 📚 Curated Resources
-
-Community-maintained lists and references for topics related to AI-assisted software engineering:
-
-### [Awesome Spec-Driven Development](https://github.com/Software-Engineering-Arena/awesome-spec-driven-development) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 A curated list of awesome tools, frameworks, and resources for Spec-Driven Development (SDD)—the practice of writing specifications first to guide development, testing, and documentation.
 
 ## 📄 License
